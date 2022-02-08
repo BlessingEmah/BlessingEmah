@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 If you wish, you can find me on these platforms:
 
 - LinkedIn: [linkedin.com/in/blessingemah](https://linkedin.com/in/blessingemah)
-- Twitter: [@__webdot](https://twitter.com/theblessingemah)
+- Twitter: [@theblessingemah](https://twitter.com/theblessingemah)
 - Mail: beblessingemah@gmail.com

@@ -1,18 +1,16 @@
 ### Hi there 👋
 
+Hello there :wave:,
 
+I am Blessing Emah.
+I love dpcumenting my tech journey and I write about concepts in Blockchain
+Check out my blog at [hashnode](https://hashnode.com/@Blessingemah.
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Solidity and React
+- 👯 I’m looking to collaborate on Blockchain projects 
+
 
 ## :handshake:   Let's Connect
 If you wish, you can find me on these platforms:

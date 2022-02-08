@@ -12,5 +12,5 @@ If you wish, you can find me on these platforms:
 
 - LinkedIn: [linkedin.com/in/blessingemah](https://linkedin.com/in/blessingemah)
 - Twitter: [@theblessingemah](https://twitter.com/theblessingemah)
-- Blog - [https://hashnode.com/@Blessingemah] (https://hashnode.com/@Blessingemah)
+- Blog (https://hashnode.com/@Blessingemah)
 - Mail: beblessingemah@gmail.com

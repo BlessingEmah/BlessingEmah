@@ -8,7 +8,7 @@ I am Blessing Emah. I m a frontend developer and a Blockchain Developer.
 &nbsp;
 
 ## :handshake:   Let's Connect
-If you wish, you can find me on these platforms:
+You can find me on these platforms:
 
 - LinkedIn: [linkedin.com/in/blessingemah](https://linkedin.com/in/blessingemah)
 - Twitter: [@theblessingemah](https://twitter.com/theblessingemah)

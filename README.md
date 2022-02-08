@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-Hello there :wave:,
 
 I am Blessing Emah.
 I love dpcumenting my tech journey and I write about concepts in Blockchain
-Check out my blog at [hashnode](https://hashnode.com/@Blessingemah.
+Check out my blog at [https://hashnode.com/@Blessingemah].
 
 &nbsp;
 

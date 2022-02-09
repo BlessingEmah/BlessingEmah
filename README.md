@@ -2,7 +2,6 @@
 
 
 I am Blessing Emah. I m a frontend developer and a Blockchain Developer.
-- 🌱 I’m currently learning Solidity and React
 - 👯 I’m looking to collaborate on Blockchain projects 
 
 &nbsp;

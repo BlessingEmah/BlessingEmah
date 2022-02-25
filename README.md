@@ -14,3 +14,5 @@ You can find me on these platforms:
 
 Open to collaboration 
 - Mail: beblessingemah@gmail.com
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlessingEmah)

@@ -1,6 +1,6 @@
 
-### Hi there 👋, my name is Blessing Emah
-#### I am a Frontend Blockchain Developer.
+### Hi there 👋,
+### my name is Blessing Emah and I am a Frontend Blockchain Developer.
 
 - 👯 I’m open to building the next big things in the Blockchain space. 
 
@@ -9,6 +9,15 @@
 - 👯TYPESCRIPT 
 - 👯HTML, CSS & JS 
 - 👯REACT
+
+&nbsp;
+
+## :handshake:   Let's Connect
+You can find me on these platforms:
+
+- LinkedIn: [linkedin.com/in/blessingemah](https://linkedin.com/in/blessingemah)
+- Twitter: [@theblessingemah](https://twitter.com/theblessingemah)
+
 
 
 **GITHUB STATISTICS**

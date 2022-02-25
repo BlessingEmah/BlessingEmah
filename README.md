@@ -11,7 +11,9 @@
 - HTML, CSS & JS 
 - REACT
 
-**I'm familiar with **
+&nbsp;
+**I'm familiar with**
+
 - Hardhat & Web3.js
 - Truffle & ether.js
 

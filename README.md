@@ -6,10 +6,10 @@
 
 **Languages in my Arsenal**
 
--SOLIDITY 
--TYPESCRIPT 
--HTML, CSS & JS 
--REACT
+- SOLIDITY 
+- TYPESCRIPT 
+- HTML, CSS & JS 
+- REACT
 
 
 **GITHUB STATISTICS**
@@ -26,4 +26,5 @@ You can find me on these platforms:
 
 - LinkedIn: [Blessing Emah](https://linkedin.com/in/blessingemah)
 - Twitter: [@theblessingemah](https://twitter.com/theblessingemah)
+- Gmail: beblessingemah@gmail.com 
 

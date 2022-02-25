@@ -12,10 +12,11 @@
 - REACT
 
 &nbsp;
-**I'm familiar with**
+**I'm familiar with these tools**
 
 - Hardhat & Web3.js
 - Truffle & ether.js
+- Alchemy
 
 
 **GITHUB STATISTICS**

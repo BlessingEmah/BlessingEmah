@@ -4,20 +4,12 @@
 
 - 👯 I’m open to building the next big things in the Blockchain space. 
 
-**Languages in my Arsenal**:  
-- 👯SOLIDITY 
-- 👯TYPESCRIPT 
-- 👯HTML, CSS & JS 
-- 👯REACT
+**Languages in my Arsenal**
 
-&nbsp;
-
-## :handshake:   Let's Connect
-You can find me on these platforms:
-
-- LinkedIn: [linkedin.com/in/blessingemah](https://linkedin.com/in/blessingemah)
-- Twitter: [@theblessingemah](https://twitter.com/theblessingemah)
-
+-SOLIDITY 
+-TYPESCRIPT 
+-HTML, CSS & JS 
+-REACT
 
 
 **GITHUB STATISTICS**
@@ -27,4 +19,11 @@ You can find me on these platforms:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BlessingEmah&show_icons=true)  
 
 
+&nbsp;
+
+## :handshake:   Let's Connect
+You can find me on these platforms:
+
+- LinkedIn: [Blessing Emah](https://linkedin.com/in/blessingemah)
+- Twitter: [@theblessingemah](https://twitter.com/theblessingemah)
 

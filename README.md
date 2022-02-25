@@ -4,13 +4,14 @@
 
 - 👯 I’m open to building the next big things in the Blockchain space. 
 
-Skills:  
- -SOLIDITY 
- -TYPESCRIPT 
- -HTML, CSS & JS 
- -REACT
+**Languages in my Arsenal**:  
+- 👯SOLIDITY 
+- 👯TYPESCRIPT 
+- 👯HTML, CSS & JS 
+- 👯REACT
 
 
+**GITHUB STATISTICS**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlessingEmah)](https://github.com/anuraghazra/github-readme-stats)
 

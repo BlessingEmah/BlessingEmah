@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-I am Blessing Emah. I m a frontend developer and a Blockchain Developer.
-- 👯 I’m looking to collaborate on Blockchain projects 
+I am Blessing Emah. 
+I m a frontend Blockchain Developer and i am open to collaborating  on Blockchain projects.
 
 &nbsp;
 

@@ -8,15 +8,14 @@
 
 - SOLIDITY 
 - TYPESCRIPT 
-- HTML, CSS & JS 
-- REACT
-
+ 
 &nbsp;
 **I'm familiar with these tools**
 
 - Hardhat & Web3.js
 - Truffle & ether.js
 - Alchemy
+- Foundry
 
 
 **GITHUB STATISTICS**

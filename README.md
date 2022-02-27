@@ -4,18 +4,14 @@
 
 - 👯 I’m open to building the next big things in the Blockchain space. 
 
-**Languages in my Arsenal**
+** my Arsenal**
 
-- SOLIDITY 
-- TYPESCRIPT 
+- Solidity
+- Typescript
+- Hardhat 
+- Ether.js
  
-&nbsp;
-**I'm familiar with these tools**
 
-- Hardhat & Web3.js
-- Truffle & ether.js
-- Alchemy
-- Foundry
 
 
 **GITHUB STATISTICS**

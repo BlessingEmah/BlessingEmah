@@ -4,7 +4,7 @@
 
 - 👯 I’m open to building the next big things in the Blockchain space. 
 
-** my Arsenal**
+**MY SKILLSET**
 
 - Solidity
 - Typescript

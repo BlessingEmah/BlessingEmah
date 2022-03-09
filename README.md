@@ -1,6 +1,6 @@
 
 ### Hi there 👋,
-### my name is Blessing Emah and I am a Smart Contract Developer.
+### my name is Blessing Emah and I am a Smart Contract Developer and a Web3 Frontend Developer.
 
 - 👯 I’m open to building the next big things in the Blockchain space. 
 

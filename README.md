@@ -4,8 +4,9 @@
 
 - 👯 I’m open to building the next big things in the Blockchain space. 
 
-**MY SKILLSET**
-
+**LANGUAGES IN MY ARSENAL**
+- Html/css/Javascript
+- React
 - Solidity
 - Typescript
 - Hardhat 

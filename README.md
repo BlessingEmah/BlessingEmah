@@ -17,9 +17,7 @@
 
 **GITHUB STATISTICS**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlessingEmah)](https://github.com/anuraghazra/github-readme-stats)
- &nbsp; &nbsp; &nbsp;![GitHub stats](https://github-readme-stats.vercel.app/api?username=BlessingEmah&show_icons=true)  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlessingEmah&layout=compact)]
 
 &nbsp;
 

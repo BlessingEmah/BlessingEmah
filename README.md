@@ -1,6 +1,8 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=BlessingEmah&label=Profile%20views&color=0e75b6&style=flat"
                      alt="Blessing Emah"/></p>
+                     
 ### Hi there 👋,
+
 ### my name is Blessing Emah and I am a Smart Contract Developer and a Web3 Frontend Developer.
 
 - 👯 I’m open to building the next big things in the Blockchain space. 

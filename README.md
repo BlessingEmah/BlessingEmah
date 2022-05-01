@@ -7,16 +7,6 @@
 
 - 👯 I’m open to building the next big things in the Blockchain space. 
 
-**MY SKILLS**
-- Solidity
-- Javascript
-- Typescript
-- Hardhat 
-- Ether.js
- 
-
-
-
 **GITHUB STATISTICS**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlessingEmah&layout=compact)]

@@ -6,6 +6,7 @@
 ### my name is Blessing Emah and I am a Smart Contract Developer .
 
 - 👯 I’m open to building the next big things in the Blockchain space. 
+- Ecosystem Tools - Tenderly & Foundry 
 
 **GITHUB STATISTICS**
 

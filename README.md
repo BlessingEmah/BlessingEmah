@@ -1,5 +1,6 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=BlessingEmah&label=Profile%20views&color=0e75b6&style=flat"
+<p align="center"><img src="https://komarev.com/ghpvc/?username=BlessingEmah&label=Profile%20views&color=0e75b6&style=flat"
                      alt="Blessing Emah"/></p>
+                     
                      
 ### Hi there 👋,
 

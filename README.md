@@ -14,10 +14,6 @@
 &nbsp;
 
 ## :handshake:   Let's Connect
-
-<p align="left">
 <a href="https://twitter.com/theblessingemah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Blessing Emah" height="30" width="40" /></a>
-<a href="(https://linkedin.com/in/blessingemah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Blessing-Emah" height="30" width="40" /></a>
-
 
 

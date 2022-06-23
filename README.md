@@ -12,7 +12,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlessingEmah&layout=compact)]
 
 &nbsp;
-- 👯 Dapp Tools - Tenderly & Foundry 
 
 ## :handshake:   Let's Connect
 

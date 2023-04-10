@@ -2,7 +2,8 @@
                      alt="Blessing Emah"/></p>
    <p align="left"> <a href="https://twitter.com/theblessingemah" target="blank"><img src="https://img.shields.io/twitter/follow/theblessingemah?logo=twitter&style=for-the-badge" alt="Blessing Emah" /></a> </p>
    
-   <h1 align="center">Hi 👋, I'm Blessing Emah, a Blockchain Engineer</h1>
+   <h1 align="center">Hi 👋, I'm Blessing Emah, 
+  a Blockchain Engineer and a Web3 Developer Advocate</h1>
           
 - 👯 You would find me building the next big thing in the Blockchain space. 
 <h1 align= "center" > Check out my repository to see my Projects </h1>
